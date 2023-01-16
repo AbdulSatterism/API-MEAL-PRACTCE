@@ -1,0 +1,24 @@
+body {
+    background-color: #2d2013;
+}
+
+
+.header {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+
+.nav {
+    background-color: #23180d;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.col {
+    color: #813b06;
+}
